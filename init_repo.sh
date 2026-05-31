@@ -1,5 +1,5 @@
 #!/bin/sh
-WALG_VER="3.0.7"
+WALG_VER="3.0.8"
 
 git init
 
@@ -154,6 +154,7 @@ git push -u origin main
 git checkout upstream
 git push --set-upstream origin upstream
 git checkout main
+git push origin --force --tags
 
 
 

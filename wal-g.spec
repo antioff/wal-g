@@ -4,7 +4,7 @@
 
 Packager:       antioff <nobody@altlinux.org>
 Name: %PROG_NAME
-Version: 3.0.7
+Version: 3.0.8
 Release: alt1
 Summary: WAL-G is an archival restoration tool for PostgreSQL, MySQL/MariaDB, and MS SQL Server (beta for MongoDB and Redis).
 License: Apache-2.0
