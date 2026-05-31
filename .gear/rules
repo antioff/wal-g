@@ -1,0 +1,2 @@
+tar: v@version@:wal-g name=wal-g-@version@
+diff: v@version@:wal-g wal-g name=wal-g-@version@-@release@.patch
